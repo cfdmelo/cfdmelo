@@ -1,16 +1,34 @@
-### Hi there 👋
+#
+<a href="mailto: cfdmelo@gmail.com">
+  <img align="right" alt="Braydon's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
+</a>
+<a href="https://www.linkedin.com/in/camila-freire-de-melo-11602a219">
+  <img align="right" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/milaa_melo/">
+  <img align="right" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" />
+</a>
+</a>
+<a href="https://discord.com/users/CamilaMelo#7546">
+  <img align="right" alt="Braydon's Discord" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/discord.svg" />
+</a>
 
-<!--
-**cfdmelo/cfdmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá!! Sou a Camis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
+## 🌱 Engenheira de Software em Formação
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/cfdmelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilafreire&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafreire&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Camis-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Camis-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Camis-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Camis-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Camis-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
+
