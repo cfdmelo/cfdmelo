@@ -15,7 +15,7 @@
 # Olá!! Sou a Camis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
 ## 🌱 Engenheira de Software em Formação
 
-<div>
+<div align="center">
   <a href="https://github.com/cfdmelo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cfdmelo&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfdmelo&layout=compact&langs_count=7&theme=graywhite"/>
